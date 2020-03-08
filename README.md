@@ -5,6 +5,12 @@
 This example do not calculate physics but do only simple interpolations between normalmaps, heightmaps. Tesselation allow us to divide plane and apply the heightmaps. Fragment allow us to calculate light so material color.
 For this project I used 14 normalmaps, 14 heightmaps and one texture with color.
 
+### Libraries:
+- GLEW library - http://glew.sourceforge.net
+- GLFW library - https://www.glfw.org
+- GLM library - https://glm.g-truc.net
+- STB_IMAGE library - https://github.com/nothings/stb
+
 ### Requirements:
 - Graphics card that support OpenGL in version 4.1
 
