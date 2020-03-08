@@ -144,6 +144,8 @@ int main()
   glDeleteTextures(TEXTURES_AMOUNT, heightMap);
   glDeleteTextures(TEXTURES_AMOUNT, normalMap);
   glDeleteTextures(1, &waterTex);
+  glDeleteTextures(1, &wavesHeightMap);
+  glDeleteTextures(1, &wavesNormalMap);
   glfwTerminate();
   return 0;
 }
