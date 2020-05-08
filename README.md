@@ -22,6 +22,3 @@ For this project I used 14 normalmaps, 14 heightmaps and one texture with color.
 
 ### Requirements:
 - Graphics card that support OpenGL in version 4.1
-
-
-***This pack include exe file and dlls files.***
