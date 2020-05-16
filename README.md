@@ -3,6 +3,8 @@
 
 ![Ocean surface](ss/ocean.png)
 
+YouTube video: https://www.youtube.com/watch?v=H5PJNWV3I7M
+
 ### How it works?
 This example do not calculate physics but do only simple interpolations between normalmaps, heightmaps. Tessellation allow us to divide plane and apply the heightmaps. Fragment allow us to calculate light so material color.
 For this project I used 14 normalmaps, 14 heightmaps and one texture with color.
